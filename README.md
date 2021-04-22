@@ -1,6 +1,10 @@
-# This repo is for Avaya employees  
-### This info is provided as is and reflects my learning my journey learning activity
-Tracy Fleming works within the Advanced Solutions Group @Avaya. During the pandemic I needed something to keep me busy. I started out trying to understand JSON and that took me down a deep rabbit hole.
-- Tracy can be reached at tfleming@avaya.com
-- Comments and update requests will be processed via the GitHub tool set.
-- I would love to hear about your learnings, books, videos you find helpful please post and update.
+# This repo is for Avaya employees to share learning experience  
+### This info is provided as is and reflects my learning  journey and activity. Please do not post anything confidential or proprietary. No Avaya product or company info should be posted here. 
+[Tracy Fleming](https://www.linkedin.com/in/tracy-fleming-7902211/) works within the Advanced Solutions Group @Avaya. During the pandemic I needed something to keep myself busy outside of work. I started out trying to understand JSON a bit better and that took me down a deep rabbit hole.
+- Tracy can be reached at tfleming@avaya.com or tfleming675@gmail.com
+- My master list of resources is in learning.MD above and is written in [Markdown](https://www.markdownguide.org/getting-started/) language. 
+- I would love to hear about your learnings, books, videos you find helpful, please post and update.
+-  To contribute you will need to leverage the tools of Git and GitHub. To that end here is a starter list of resources.
+-  [**Getting started**](https://guides.github.com/activities/hello-world/) 
+-  [Git Videos](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)  
+-  [LinkedIn Learning GitHub](https://www.linkedin.com/learning/subscription/topics/github?src=go-pa&veh=sem_src.go-pa_c.LLS-C_NAMER_All_CA_Search_Google-NB_DR-PRS_Broad_Dev-Devops-Beta_All_English_Core-MKAG_pkw.%2Bhow-to%20%2Bgithub_pmt.b_pcrid.474887652719_pdv.c_plc._trgid.aud-1016811499848:kwd-446863880047_net.g_learning&trk=sem_src.go-pa_c.LLS-C_NAMER_All_CA_Search_Google-NB_DR-PRS_Broad_Dev-Devops-Beta_All_English_Core-MKAG_pkw.%2Bhow-to%20%2Bgithub_pmt.b_pcrid.474887652719_pdv.c_plc._trgid.aud-1016811499848:kwd-446863880047_net.g_learning&mcid=6626616148786065462&cname=&camid=11364721860&asid=108752006581&targetid=aud-1016811499848:kwd-446863880047&crid=474887652719&placement=&dev=c&ends=1&gclid=Cj0KCQjwvYSEBhDjARIsAJMn0ljf7TWODO5OwAX1FMuwRhLRYuR6Qx6zE6jO51vfPU7rMuc3mteysjoaAhyQEALw_wcB&gclsrc=aw.ds)
